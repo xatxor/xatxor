@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Victoria Khamash, I'm a 2th year student of MIPT DREC.
+
+Contact me: https://vk.com/xat_xor
 
 <!--
 **xatxor/xatxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
