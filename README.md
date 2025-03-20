@@ -2,6 +2,8 @@
 
 My name is Victoria Khamash, I'm a 2th year student of MIPT DREC.
 
+This is my [CV](/CV_Khamash_Victoria.pdf).
+
 Contact me: https://vk.com/xat_xor
 
 <!--
